@@ -1,1 +1,1 @@
-# vehicle-checklist-info-app
+# Vehicle Checklist Info App
